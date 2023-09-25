@@ -1,0 +1,38 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: [24/09/2023]
+Empresa: Abstergo Industries 
+Responsável: [Rafael Palandi]
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [Abstergo Industries], realizado por [Rafael Palandi]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: 
+- [AWS Cost Explorer]
+- [Serviço que permite visualizar, entender e gerenciar os custos e o uso de seus serviços na AWS]
+- [O AWS Cost Explorer fornece relatórios mensais ou até diários, dependendo da granularidade que a empresa necessita, ativando o Explorador de Custos, a AWS prepara os dados sobre seus custos referentes ao mês atual e aos últimos 12 meses, depois calcula a previsão para os próximos 12 meses. Os dados do mês atual estarão disponíveis para visualização em cerca de 24 horas. O restante de seus dados levará alguns dias a mais. O Explorador de Custos atualiza seus dados de custo pelo menos uma vez a cada 24 horas ]
+
+Etapa 2: 
+- [Amazon DynamoDB]
+- [Banco de dados sem servidor para aplicações que exigem alta performance em qualquer escala].
+- [ É um banco de dados de chave-valor NoSQL, sem servidor e totalmente gerenciado, projetado para executar aplicações de alta performance em qualquer escala. O DynamoDB oferece segurança integrada, backups contínuos, replicação multirregional automatizada, armazenamento em cache na memória e ferramentas de importação e exportação de dados, também podemos criar aplicações em escala na Internet compatíveis com metadados e caches de conteúdo de usuário que exija alto nível de simultaneidade e conexões para milhões de usuários, além de milhões de solicitações por segundo].
+
+
+Etapa 3: 
+- [Amazon Elastic Compute Cloud (Amazon EC2)]
+- [Plataforma de computação mais ampla e aprofundada, com mais de 700 instâncias e opções de processadores, armazenamentos, redes, sistemas operacionais e modelos de compras mais recentes para ajudar você a atender melhor às necessidades da sua workload. Somos o primeiro grande provedor de nuvem a oferecer suporte para processadores Intel, AMD e Arm, a única nuvem com instâncias Mac do EC2 sob demanda e a única nuvem com redes Ethernet de 400 Gbps]
+- [ O Amazon EC2 oferece uma infraestrutura de computação segura, confiável, de alta performance e econômica para atender às exigentes necessidades dos negócios, O uso do Amazon EC2 reduz os custos de hardware para que você possa desenvolver e implantar aplicações com mais rapidez. É possível usar o Amazon EC2 para executar quantos servidores virtuais forem necessários, configurar a segurança e as redes e gerenciar o armazenamento]
+
+
+
+## Conclusão
+A implementação de ferramentas na empresa *[Abstergo Industries] tem como esperado permitir que os 
+os serviços sejam  escalados e que tragam inovação sem deixar de manter o ambiente seguro, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+
+Assinatura do Responsável pelo Projeto:
+
+[Rafael Palandi]
